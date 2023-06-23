@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#SEO1_FSTR
 import random
 
 number = random.randint(-10000, 10000)
